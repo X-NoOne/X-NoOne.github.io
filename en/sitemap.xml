@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://x-noone.github.io/</loc>
-    <lastmod>2025-02-24T21:08:20+08:00</lastmod>
+    <lastmod>2025-02-24T21:24:33+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -20,11 +20,11 @@
                 href="https://x-noone.github.io/"
                 />
   </url><url>
-    <loc>https://x-noone.github.io/p/newnewnew/</loc>
-    <lastmod>2025-02-24T21:08:20+08:00</lastmod>
+    <loc>https://x-noone.github.io/p/newnew/</loc>
+    <lastmod>2025-02-24T21:24:33+08:00</lastmod>
   </url><url>
     <loc>https://x-noone.github.io/post/</loc>
-    <lastmod>2025-02-24T21:08:20+08:00</lastmod>
+    <lastmod>2025-02-24T21:24:33+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -40,6 +40,9 @@
                 hreflang="en"
                 href="https://x-noone.github.io/post/"
                 />
+  </url><url>
+    <loc>https://x-noone.github.io/p/newnewnew/</loc>
+    <lastmod>2025-02-24T21:08:20+08:00</lastmod>
   </url><url>
     <loc>https://x-noone.github.io/p/first%E6%B5%8B%E8%AF%95/</loc>
     <lastmod>2025-02-23T22:07:12+08:00</lastmod>
